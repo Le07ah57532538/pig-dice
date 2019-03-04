@@ -6,3 +6,6 @@ background-size: cover;
 background-attachment: fixed;
 color: white;
 }
+h1{
+  text-decoration: underline;
+}
